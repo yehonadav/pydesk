@@ -1,0 +1,11 @@
+[run]
+branch = True
+source =
+    pydesk
+    tests
+
+[paths]
+source =
+    pydesk
+    .tox/*/lib/python*/site-packages/pydesk
+    .tox/pypy/site-packages/pydesk
